@@ -1,8 +1,8 @@
 {
 	"appName": "Alt1 Sandbox",
 	"description": "A dummy app to play around in",
-	"appUrl": "gh-pages-hello-world",
-	"configUrl": "gh-pages-hello-world/appconfig.json",
+	"appUrl": "/gh-pages-hello-world",
+	"configUrl": "/gh-pages-hello-world/appconfig.json",
 	"defaultWidth": 280,
 	"defaultHeight": 340,
 	"minWidth": 200,
